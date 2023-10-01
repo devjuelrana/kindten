@@ -1,0 +1,842 @@
+@media (min-width: 1440px) and (max-width: 1600px){
+	.search_popup_btn {
+	    margin-left: 150px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 90%;
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 80px;
+	}
+	.kten_slider_content.text-right p {
+	    width: 65%;
+	}
+}
+@media (min-width: 1365px) and (max-width: 1439px){
+	.search_popup_btn {
+	    margin-left: 130px;
+	}
+	.kten_menu_area.landing_page .search_popup_btn {
+	    margin-left: 250px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 95%;
+	}
+}
+@media (min-width: 1200px) and (max-width: 1364px){
+	.search_popup_btn {
+	    margin-left: 120px;
+	}	
+	.skill_bar_area {
+	    padding-top: 0;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 95%;
+	}
+	.kten_menu_area.landing_page .search_popup_btn {
+	    margin-left: 250px;
+	}
+	.department_left_content .dep_left_title {
+	    font-size: 30px;
+	}	
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.kten_information_area {	   
+	    padding-left: 0;
+	    justify-content: center;
+	}
+	.top_location_area,
+	.top_email_area,
+	.top_address_area {
+	    margin-right: 15px;
+	}
+	.search_popup_btn {
+	    margin-left: 40px;
+	}
+	.main_menu {
+	    padding-left: 0;
+	}
+	.main_menu ul {
+	    padding: 0;
+	}
+	.main_menu ul li a {
+	    font-size: 16px;
+	    margin: 45px 8px;
+	}
+	.kten_menu_area.landing_page .search_popup_btn {
+	    margin-left: 250px;
+	}
+	.kten_slider_inner {
+	    height: 750px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 90%;
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 60px;
+    	margin-bottom: 10px;
+	}
+	.kten_slider_content.text-right p {
+	    width: 75%;
+	}	
+	.kten_slider_btn a {
+	    margin-top: 34px;
+	}
+	.kten_about_area 
+	.kten_section_title {
+	    padding-right: 0;
+	}
+	.skill_bar_area {
+	    padding-top: 0;
+	}
+	.kten_about_area .kten_section_title {
+	    margin-bottom: 0;
+	}
+	.kten_menu_area.courses_p .main_menu ul li a {
+	    font-size: 18px;
+	}
+	.department_left_content .dep_left_title {
+	    font-size: 25px;
+	}
+	.apply_righ_cont {
+	    margin-top: 0;
+	}
+	.img_box_content_area {
+	    padding: 10px 10px 30px 10px;
+	}	
+	.team_det_single_author .team_author_name h3 {
+	    font-size: 20px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.kten_information_area {	   
+	    padding-left: 0;
+	    justify-content: center;
+	}
+	.top_location_area,
+	.top_email_area,
+	.top_address_area {
+	    margin-right: 15px;
+	}
+	.search_popup_btn {
+	    margin-left: 40px;
+	}
+	.main_menu {
+	    padding-left: 0;
+	}
+	.main_menu ul {
+	    padding: 0;
+	}
+	.main_menu ul li a {
+	    font-size: 16px;
+	    margin: 45px 8px;
+	}
+	.kten_menu_area {
+		display: none !important;
+	}	
+	.kten_mobile_menu_area {
+		display: block !important;
+	}
+	.kten_logo_area {
+	    display: none;
+	}
+	.kten_slider_inner {
+	    height: 650px;
+	}
+	.kten_slider_thumb {
+	    background-position: right !important;
+	}
+	.kten_slider_content {
+	    position: absolute;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 50px;
+    	margin-bottom: 10px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 75%;
+	    margin: auto;
+	}
+	.kten_slider_content.text-right {
+	    text-align: center;
+	    left: 0;
+	    right: 0;
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 60px;
+	}
+	.kten_slider_content.text-right p {
+	    width: 65%;
+	    margin: auto;
+	}
+	.kten_slider_btn a {
+	    margin-top: 24px;
+	}
+	.kten_service_area .kten_section_title {
+	    width: 80%;
+	}
+	.kten_breadcumb_content h2 {
+	    font-size: 22px;
+	}
+	.about_left_area .kten_section_title {
+	    margin-top: 30px;
+	}
+	.kten_cart_area .kten_section_title {
+	    width: 100%;
+	}
+	.cart_single_item {
+   	 	margin-bottom: 30px;
+	}
+	.kten_team_single_item {
+	    margin-bottom: 30px;
+	}
+	.blog_content_area .blog_title a {
+	    font-size: 22px;
+	}
+	.department_left_area {
+	    margin-bottom: 30px;
+	}
+	.apply_righ_cont {
+	    margin-top: 30px;
+	}
+	.kten_top_skill_bar.progress_p, 
+	.kten_middle_skill_bar.progress_p {
+	    padding: 60px 0;
+	}
+	.circle_area {
+	    padding: 60px 0;
+	}
+	.team_det_single_author .team_author_name {
+	    bottom: 10%;
+	    width: 90%;
+	    padding: 10px 5px 10px 5px;
+	}	
+	.team_det_single_author .team_author_name h3 {
+	    font-size: 18px;
+	    line-height: 1;
+	}
+	.team_det_post_content h2 {
+	    font-size: 18px;
+	}
+	.team_det_social ul li a {
+	    margin: 0px 5px;
+	    font-size: 16px;
+	}
+	.team_share_icon a {
+	    width: 35px;
+	    height: 35px;
+	    line-height: 27px;
+	    font-size: 13px;
+	}
+	.team_det_single_author:hover .team_share_icon a {
+	    bottom: 16%;
+	}
+	.pricing_box {
+	    margin-bottom: 30px;
+	}
+	.kten_checkout_area,
+	.kten_cart_p_area {
+		padding: 60px 0;
+	}
+	.cart_calculate_wrap, 
+	.cart_discount_wrap, 
+	.grand_total_wrap {
+	    margin-top: 50px;
+	}	
+	.cart_p_table_wrap table {
+	    width: max-content;
+	}
+	.cart_p_table_wrap table thead tr th.pro_name {
+	    width: 250px;
+	}
+	.cart_p_table_wrap table thead th {
+	    width: 170px;
+	}
+	.cart_p_table_wrap table tbody tr, 
+	.cart_p_table_wrap table tbody td {
+	    padding: 10px 0;
+	}
+}
+@media (max-width: 768px) {
+	.kten_menu_area {
+		display: none !important;
+	}
+	.kten_mobile_menu_area {
+		display: block !important;
+	}
+	.kten_logo_area {
+	    display: none;
+	}
+	.kten_information_area {
+	    padding-left: 0;
+	    display: block;
+	}
+	.top_location_area,
+	.top_email_area {
+	    margin-right: 16px;
+	}
+	.kten_slider_thumb {
+	    background-position: right !important;
+	}
+	.kten_slider_inner {
+	    height: 600px;
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 50px;
+    	margin-bottom: 10px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 75%;
+	    margin-right: auto;
+	    margin-left: auto;
+	}
+	.kten_slider_content.text-right {
+	    text-align: center;
+	    left: 0;
+	    right: 0;
+	}
+	.kten_slider_content {
+	    position: absolute;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+	.kten_slider_content.text-right p {
+	    margin-right: auto;
+	    margin-left: auto; 
+	    width: 70%;
+	}
+	.kten_slider_btn a {
+	    margin-top: 24px;
+	}
+	.kten_section_title {
+	    width: 75%;
+	}
+	.kten_section_title h2 {
+		font-size: 20px;
+	}
+	.kten_about_area 
+	.kten_section_title {
+	    padding-right: 0;
+	    margin: 0;
+	    margin-top: 30px;
+	}
+	.skill_bar_area {
+	    width: 100%;
+	}
+	.kten_client_item {
+	    padding: 40px 10px;
+	}
+	.kten_clients_area .slick-slide img {
+	    margin: auto;
+	}
+	.cart_single_item {
+	    margin-bottom: 30px;
+	}
+	.cart_content .cart_title {
+	    padding-right: 0;
+	}
+	.kten_counter_inner {
+	    display: block;	
+	}
+	.kten_cou_single_item {
+	    margin-bottom: 30px;
+	}
+	.kten_team_single_item {
+	    margin-bottom: 30px;
+	}
+	.kten_about_area,
+	.kten_testimonial_area {
+	    padding: 60px 0;
+	}
+	.kten_footer_widget_area {
+	    margin-bottom: 30px;
+	    text-align: center;
+	}
+	.footer_copyright_area {
+	    margin-top: 20px;
+	}
+	#toTop {
+	    right: 10px;
+	}
+	.kten_service_area,
+	.kten_cart_area,
+	.kten_team_area,
+	.kten_blog_area,
+	.kten_cart_area.lesson_style_p,
+	.kten_service_area.academics_p {
+	    padding: 60px 0 30px;
+	}
+	.kten_counter_area {
+	    padding: 0 0;
+	}
+	.kten_footer_widget_area .widget_title {
+	    font-size: 20px;
+	}
+	.courses_style_item {
+	    padding: 52px 0 33px;
+	}
+	.instructor_reg_area {
+	    padding: 60px 0;
+	}
+	.student_management_area {
+	    padding: 60px 0;
+	}
+	.student_management_inner h1 {
+	    font-size: 20px;
+	}
+	.accordion-item .accordion-button {
+	    font-size: 16px;
+	}
+	.kten_service_area.academics_p .kten_section_title {
+	    width: 100%;
+	}
+	.admission_area {
+	    margin-top: 10px;
+	}
+	.apply_single_item {
+	    margin: 30px 0;
+	}
+	.apply_left_thumb {
+	    margin-top: 30px;
+	}
+	.tuition_single_item_content {
+	    padding: 30px 40px;
+	}
+	.tuition_single_item_content .tuition_title {
+	    font-size: 20px;
+	}
+	.tuition_single_item_content ul {
+	    margin-top: 0px;
+	}
+	.admission_b_form_content .add_b_form_title {
+	    font-size: 24px;
+	}
+	.apply_button {
+	    padding: 12px 15px;
+	    font-size: 16px;
+	}
+	.admission_form_area {
+	    margin-bottom: 60px;
+	}
+	.apply_righ_cont h2 {
+	    font-size: 24px;
+	}
+	.how_to_application_area .how_to_apply_title {
+	    font-size: 26px;
+	}
+	.requirement_area {
+	    padding: 60px 0;
+	}
+	.how_to_content h2 {
+	    font-size: 20px;
+	}
+	.requirement_left_content .rquirement_title, 
+	.requirement_right_content .rquirement_title {
+	    font-size: 20px;
+	}
+	.container_width {
+	    width: 90%;
+	}
+	.kten_portfolio_area {
+	    padding: 60px 0 0 0;
+	}
+	.pagination_area.three_clumn, 
+	.pagination_area.forth_clmn {
+	    padding: 7px 0 36px;
+	}
+	.paginations ul li span {	    
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.kten_image_box .kten_section_title {
+	    width: 95%;
+	}
+	.kten_image_box {
+	    padding: 60px 0 30px;
+	}
+	.img_box_title,
+	.img_box_content_area p {
+	    margin: 0;
+	}
+	.kten_cart_area.process_p {
+	    padding: 60px 0;
+	}
+	.kten_cart_area.course_p.process_p  {
+		padding: 60px 0 30px;
+	}	
+	.kten_cart_area.course_p {
+	    padding: 80px 0 0;
+	}
+	.kten_top_skill_bar.progress_p, 
+	.kten_middle_skill_bar.progress_p {
+	    padding: 60px 0;
+	}
+	.kten_top_skill_bar.progress_p.style_a,
+	.kten_middle_skill_bar.progress_p.style_b{
+		padding: 60px 0;
+	}
+	.circle_area {
+	    padding: 60px 0;
+	}
+	.circle_inner {
+	    margin-bottom: 15px;
+	}
+	.top_skill_left .skill_bar_area, 
+	.top_skill_right .skill_bar_area, 
+	.middle_skill_left .skill_bar_area, 
+	.middle_skill_right .skill_bar_area {
+	    width: 100%;
+	}
+	.alert_area {
+	    padding: 60px 0 0 0;
+	}
+	.alert_inner {
+	    margin-bottom: 30px;
+	}
+	.kten_video_content h3 {
+	    font-size: 20px;
+	}
+	.team_detials_area {
+	    margin: 60px 0;
+	}
+	.team_det_single_author .team_author_name {
+	    width: 90%;
+	    padding: 25px 25px;
+	}
+	.team_det_single_author .team_author_name h3 {
+	    font-size: 18px;
+	    line-height: 1;
+	}
+	.team_det_post_content h2 {
+	    font-size: 18px;
+	}
+	.team_detail_accordion {
+	    padding: 60px 0;
+	}
+	.team_det_skill_bar {
+	    margin-bottom: 30px;
+	}
+	.team_det_post_content {
+	    padding: 20px 10px 20px;
+	}
+	.team_details_video {
+	    padding: 0;
+	}
+	.team_share_icon a {
+	    bottom: 55%;
+	}
+	.pricing_box {
+	    margin-bottom: 30px;
+	}
+	.pricing_plan_area {
+	    padding: 60px 0;
+	}
+	.pricing_text_list {
+	    padding: 70px 0 10px;
+	}
+	.counter_bottom_inner.counter_single {
+	    text-align: center;
+	    margin-bottom: 20px;
+	}
+	.counter_middle_inner .counter_title.counter_up, 
+	.count_b_timer .counter_title.counter_up,
+	.counter_middle_inner .count_text_title, 
+	.counter_bottom_inner .count_text_title,
+	.count_timer_area .counter_title.counter_up, 
+	.count_timer_area.m_timer .counter_title {
+	    font-size: 20px;
+	}
+	.count_text h2 {
+	    font-size: 18px;
+	}
+	.counter_top_area,
+	.case_study_area,
+	.top_faq_area {
+	    padding: 60px 0 30px;
+	}
+	.counter_middle_area {
+	    margin-bottom: 60px;
+	}
+	.counter_bottom_area {
+	    padding: 0 0 60px 0;
+	}
+	.top_faq_area,
+	.bottom_faq_area {
+	    padding: 60px 0;
+	}
+	.faq_left_thumb {
+	    margin-bottom: 20px;
+	}
+	.faqs_accordion_area.b_accordion {
+	    margin-bottom: 40px;
+	}
+	.kten_blog_page {
+	    padding: 60px 0 30px;
+	}
+	.kten_blog_page .widget ul li a {
+	    font-size: 14px;
+	}
+	.kten_b_post_content .kten_b_post_title a {
+	    font-size: 20px;
+	}
+	.kten_left_side .widget .side_w_title {
+	    font-size: 20px;
+	}
+	.kten_cart_p_area {
+	    padding: 60px 0;
+	}
+	.kten_contact_area {
+	    padding: 60px 0;
+	}
+	.kten_form_inner {
+	    padding: 0;
+	}
+	.kten_location {
+	    padding: 60px 0;
+	}
+	.kten_product_area,
+	.kten_team_area.t_details {
+	    padding: 60px 0 0;
+	}
+	.product_details .product_content {
+	    padding: 15px 15px;
+	}
+	.product_details {
+	    padding: 0 6px;
+	}
+	.kten_breadcumb_content h2 {
+	    font-size: 22px;
+	}
+	.kten_checkout_area,
+	.kten_cart_p_area {
+		padding: 60px 0;
+	}
+	.kten_checkout_area {
+	    padding-top: 0;
+	}
+	.cart_calculate_wrap, 
+	.cart_discount_wrap, 
+	.grand_total_wrap {
+	    margin-top: 50px;
+	}
+	.cart_p_table_wrap table {
+	    width: max-content;
+	}
+	.cart_p_table_wrap table thead tr th.pro_name {
+	    width: 250px;
+	}
+	.cart_p_table_wrap table thead th {
+	    width: 170px;
+	}
+	.cart_p_table_wrap table tbody tr, 
+	.cart_p_table_wrap table tbody td {
+	    padding: 10px 0;
+	}
+	.department_left_content .dep_left_title {
+	    font-size: 22px;
+	}
+	.department_left_content {
+	    margin-bottom: 30px;
+	}
+	.department_left_content li span i {
+	    width: 35px;
+	    height: 35px;
+	}
+	.department_left_content li {
+	    font-size: 15px;
+	}
+	.department_area_start {
+	    padding-bottom: 60px;
+	}
+	.kten_account_area_start {
+	    padding: 0 0 30px 0;
+	}
+}
+@media (max-width: 425px) {
+	.widget_content .widget_table {
+	    width: 95%;
+	    margin: auto;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    width: 95%;
+	}
+	.kten_slider_content .kten_slider_title {
+	    font-size: 36px;
+	}
+	.kten_slider_content.text-right p {
+	    width: 95%;
+	}
+	.kten_section_title {
+	    width: 95%;
+	}
+	.kten_information_area {
+	    padding-left: 0;
+	    display: block;
+	}
+	.top_location_area,
+	.top_email_area {
+	    margin-right: 16px;
+	}
+	.kten_slider_btn a {
+	    padding: 12px 24px;
+	}
+	.kten_slider_inner {
+	    height: 450px;
+	}
+	.instructor_reg_inner form button {		
+	    width: 100%;
+	    text-align: center;
+	}
+	.department_left_content .dep_left_title {
+	    font-size: 15px;
+	}
+	.department_left_content {
+	    margin-bottom: 30px;
+	}
+	.department_left_content li span i {
+	    width: 35px;
+	    height: 35px;
+	}
+	.department_left_content li {
+	    font-size: 15px;
+	}
+	.department_area_start {
+	    padding-bottom: 60px;
+	}
+	.apply_righ_cont h2 {
+	    font-size: 20px;
+	}
+	.tuition_single_item_content .tuition_title {
+	    font-size: 20px;
+	}
+	.admission_b_form_content .add_b_form_title {
+	    font-size: 20px;
+	}
+	.admission_b_form_content {
+	    width: 95%;
+	}
+	.apply_button {
+	    padding: 12px 15px;
+	    font-size: 16px;
+	}
+	.how_to_apply_inner {
+	    display: block;
+	    text-align: center;
+	}
+	.how_apply_icon i {
+	    display: inline-block;
+	    padding-bottom: 10px;
+	}
+	.img_box_single_inner .img_box_title a {
+	    font-size: 20px;
+	}
+	.team_detail_accordion .accordion-item.t_details button {
+	    font-size: 13px;
+	}
+	.p_top_left_text h3 {
+	    font-size: 22px;
+	}
+	.p_top_right_text h3 {
+	    font-size: 25px;
+	}
+	.count_timer_area {
+	    width: 100%;
+	    margin-right: 0;
+	    float: inherit;
+	}
+	.count_timer_area {
+		background: transparent;
+	    transform: skewY(0deg);
+	    padding: 0;
+	}
+	.counter_top_inner {
+	    text-align: center;
+	}
+	.count_timer_area .counter_title.counter_up, 
+	.count_timer_area.m_timer .counter_title,
+	.count_timer_area span {
+	    color: #000;
+	}
+	.case_content h3 a {
+	    font-size: 20px;
+	}
+	.accordion-item.t_faq .accordion-button,
+	.bottom_faq_area .accordion-item.b_faq button  {
+	    font-size: 14px;
+	}
+	.kten_product_result {
+	    text-align: center;
+	}
+	.student_management_inner .accordion-item button {
+	    padding: 14px 10px;
+	    font-size: 14px;
+	}
+	.courses_style_item figure {
+	    font-size: 22px;
+	}
+	.testimonial_author .tes_author_title {
+	    font-size: 20px;
+	}
+	.alert_inner strong {
+	    font-size: 22px;
+	    line-height: 1.3;
+	}
+	.kten_account_area_start {
+	    padding: 0 0 30px 0;
+	}
+
+@media (max-width: 375px) {
+	.kten_slider_inner {
+	    height: 400px;
+	}
+	.kten_slider_content.text-right .kten_slider_title {
+	    font-size: 27px;
+	   	margin-bottom: 4px;
+	}
+	.kten_slider_content.text-right p {
+	    font-size: 12px;
+	}
+	.kten_slider_btn a {
+	    padding: 8px 20px;
+	}	
+	.blog_content_area p {
+	    padding-right: 0;
+	}
+	.kten_course_filter_wrap {
+	    display: block;
+	}
+	.courses_style_item figcaption {
+	    font-size: 18px;
+	}
+	.blog_content_area p {
+	    padding-right: 0;
+	}
+	.cart_title h2.cart_title a {
+	    font-size: 20px;
+	}
+	.courses_style_item table tr th,
+	.courses_style_item table tr td {
+	    padding: 5px 5px;
+	}
+	.accordion-button {
+	    padding-right: 5px;
+	    padding-left: 5px;
+	}
+	.cart_update_wrap {
+		display: block;
+	}
+	.cart_update_wrap a {
+		margin-bottom: 10px;
+	}
+	.continue_btn a, 
+	.update_btn a,
+	.cart_calculate_btn a, 
+	.cart_discout_btn a {
+	    display: block;
+	    text-align: center;
+	}
+
+}
